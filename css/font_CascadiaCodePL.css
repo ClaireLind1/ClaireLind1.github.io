@@ -1,5 +1,1 @@
-@font-face {
-    font-family: 'CascadiaCodePL';
-    font-display: swap;
-    src: url('/fonts/CascadiaCodePL.ttf') format("truetype");
-}
+@font-face{font-family:CascadiaCodePL;font-display:swap;src:url('/fonts/CascadiaCodePL.ttf') format("truetype")}
