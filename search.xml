@@ -161,6 +161,218 @@
       </tags>
   </entry>
   <entry>
+    <title>P1 Audit (1)</title>
+    <url>/posts/829dd40c.html</url>
+    <content><![CDATA[<blockquote>
+<p><strong>Archive</strong>: <a href="https://clairelind1.github.io/posts/5ba1475e.html">CFM+FRM 金融英语笔记合集</a></p>
+<p><strong>Video</strong>: <a href="https://www.bilibili.com/video/BV1i4411J7eb?p=1">P1 CFA+FRM金融英语-财报- Audit(审计意见1)</a></p>
+</blockquote>
+<iframe src="//player.bilibili.com/player.html?aid=52649409&bvid=BV1i4411J7eb&cid=92138799&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<p><strong>Next Course</strong>: <a href="">P2 Audit (2)</a></p>
+<hr>
+<h1 id="Audit-审计"><a href="#Audit-审计" class="headerlink" title="Audit 审计"></a>Audit 审计</h1><blockquote>
+<p>An audit is <strong>an objective examination and evaluation</strong> of the the financial statements of an organization to make sure that the records are a <strong>fair and accurate</strong> representation of the transactions they claim to represent.</p>
+<p>审计是指有资格的会计师对企业账簿和账号所做的<strong>系统性检查</strong>，以此来证明财务报表所反映的资产负债情况<strong>是否属实</strong>。</p>
+<details><summary><b>术语积累</b></summary>
+    <ol>
+        <li>financial statement [C] 财务报表</li>
+    </ol>
+</details>
+
+
+
+</blockquote>
+<h2 id="The-Importance-of-Audit-审计的作用"><a href="#The-Importance-of-Audit-审计的作用" class="headerlink" title="The Importance of Audit 审计的作用"></a>The Importance of Audit 审计的作用</h2><ol>
+<li>制约</li>
+<li>参谋</li>
+<li>防护（保护投资者利益）</li>
+<li>鉴证</li>
+<li>管理控制</li>
+<li>评价</li>
+</ol>
+<h2 id="Differences-between-Internal-Audit-and-External-Audit-内部审计和外部审计的区别"><a href="#Differences-between-Internal-Audit-and-External-Audit-内部审计和外部审计的区别" class="headerlink" title="Differences between Internal Audit and External Audit 内部审计和外部审计的区别"></a>Differences between Internal Audit and External Audit 内部审计和外部审计的区别</h2><div class="table-container">
+<table>
+<thead>
+<tr>
+<th>Comparison 比较</th>
+<th>Internal Audit 内部审计</th>
+<th>External Audit 外部审计</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Meaning 定义</td>
+<td>refers to an ongoing audit function performed within an organization by a separate internal auditing department.</td>
+<td>is an audit function performed by the independent body which is not a part of the organization.</td>
+</tr>
+<tr>
+<td>Objective 目标</td>
+<td>To review the routine activities and provide suggestion for the improvement. 内控</td>
+<td>To analyze and veerify the financial statement of the company.</td>
+</tr>
+<tr>
+<td>Conductors 审计者</td>
+<td>Employees</td>
+<td>Third Party</td>
+</tr>
+<tr>
+<td>Users 使用者</td>
+<td>Management</td>
+<td>Stakeholders</td>
+</tr>
+<tr>
+<td>Opinion 意见</td>
+<td>Opinion is provided on the effectiveness of the operational activities of the organization</td>
+<td>Opinion is provided on the truthfulness and fairness of the financial statement of the company</td>
+</tr>
+<tr>
+<td>Scope 范围</td>
+<td>Decided by the management of the entity.</td>
+<td>Decided by the statute.</td>
+</tr>
+<tr>
+<td>Obligation 义务</td>
+<td>No, it is voluntary</td>
+<td>Yes, according to Indian Companies Act, 1956.</td>
+</tr>
+<tr>
+<td>Period 时段</td>
+<td>Continuous Process</td>
+<td>Once in a year</td>
+</tr>
+<tr>
+<td>Checks 检查</td>
+<td>Operational Efficiency</td>
+<td>Accuracy and Validity of Financial Statement</td>
+</tr>
+</tbody>
+</table>
+</div>
+<details><summary><b>表达积累</b></summary>
+    <ol>
+        <li><b>statute</b> /ˈstætʃuːt/ ① [countable, uncountable] a law that is passed by a parliament, council, etc. and formally written down 成文法；法令；法规</br>
+    <ul>
+        <li><b>in a statute</b> Penalties are laid down in the statute. 法规中有关于惩罚措施的规定。</li>
+        <li><b>by statute</b> Corporal punishment was banned by statute in 1987. 1987 年通过的法令明文禁止体罚。</li>
+        <li><b>under statute</b> These rights existed at common law, rather than under statute. 这些权利存在于普通法中，而不是成文法中。</li></br>
+    </ul>
+        The wording of the statute is ambiguous. 该法规的措词不明确。
+    </ol>
+</details>
+
+
+
+<h1 id="Audit-Opinion-审计意见"><a href="#Audit-Opinion-审计意见" class="headerlink" title="Audit Opinion 审计意见"></a>Audit Opinion 审计意见</h1><h2 id="01-Unqualified-Opinion-无保留意见"><a href="#01-Unqualified-Opinion-无保留意见" class="headerlink" title="01 Unqualified Opinion 无保留意见"></a>01 Unqualified Opinion 无保留意见</h2><blockquote>
+<p><strong>Unqualified Opinion</strong></p>
+<p>An unqualified audit opinion states that the financial statements give a “<strong>true and fair view</strong>” (international) or are “<strong>fairly presented</strong>” (international and US) in accordance with <strong>applicable accounting standards</strong>. This is often referred to as a “clean” opinion and is the one that analysts <strong>would like to see</strong> in a financial report.</p>
+<p>无保留意见审计报告是指审计人员对被审计单位的会计报表，依照独立审计准则的要求进行审查后，确认被审计单位采用的会计处理方法遵循了会计准则及有关规定。会计报表反映的内容符合被审计单位的实际情况：<strong>内容完整，表达清楚，无重要遗漏；报表项目的分类和编制方法符合规定要求</strong>，因而对被审计单位的会计报表无保留地<strong>表示满意</strong>。</p>
+<details><summary><b>表达积累</b></summary>
+    <ol>
+        <li><b>applicable</b> /ˈæplɪkəbl/, /əˈplɪkəbl/ [not usually before noun] that can be said to be true in the case of somebody/something 适用；合适 synonym relevant</li></br>
+        Give details of children where applicable (= if you have any). 如有子女请提供详情。</br>
+        <b>applicable to somebody/something</b> Much of the form was not applicable (= did not apply) to me. 表格中很多部分不适用于我。
+    </ol>
+</details>
+
+
+</blockquote>
+<h2 id="02-Qualified-Opinion-保留意见"><a href="#02-Qualified-Opinion-保留意见" class="headerlink" title="02 Qualified Opinion 保留意见"></a>02 Qualified Opinion 保留意见</h2><blockquote>
+<p><strong>Qualified Opinino</strong></p>
+<p>A qualified audit opinion is one in which there is some <strong>scope limitation or exception</strong> to accounting standards. Exceptions are described in the audit report with <strong>additional explanatory paragraphs</strong> so that the analyst can determine the importance of the exception.</p>
+<p>保留意见审计报告，认为被审计单位会计报表的反映就其整体而言是公允的，只是<strong>个别</strong>重要财务会计事项的处理或个别重要财务报表项目的编制不符合《企业会计准则》及国家其他有关财务会计法规的规定。从性质上看，虽然<strong>严重但不至于影响财务报告整体的公允反映</strong>。</p>
+<details><summary><b>术语积累</b></summary>
+    <ol>
+        <li>qualified opinion 保留意见</li>
+        <li>qualified audit opinion 保留意见审计报告</li>
+    </ol>
+</details>
+
+</blockquote>
+<details><summary><b>表达积累</b></summary>
+    <ol>
+        <li><b>qualified</b> adj. 有资格的，胜任的，适当的，合格的；过检定的，得到许可的；有限制的，有条件的；（俚）十足的，无比的</br>
+    vt. 描述，形容；使合适；授权于；有权，达标</br>
+    vi. 合格，成为合格；取得……的资格</br>
+    qualified for sth. 具备……的学历（或资历</br>
+    qualified to do sth. 具备……的知识（或结果），符合资格</li>
+    </ol>
+</details>
+<details><summary><b>qualify和entitle的区别</b></summary>
+    <ol>
+        <li>qualify用于比较正规、严肃的表述，而entitle用法宽泛，书面、口语均可。</li>
+        <li>核心含义不同。qualify强调“资格、资力、资质”，而entitle则强调应该有某种“权利、权益”。休假用entitle，授予学位用qualify</li>
+    </ol>
+</details>
+
+
+
+<h2 id="03-Adverse-Opinion-否定意见"><a href="#03-Adverse-Opinion-否定意见" class="headerlink" title="03 Adverse Opinion 否定意见"></a>03 Adverse Opinion 否定意见</h2><blockquote>
+<p><strong>Adverse Opinion</strong></p>
+<p>An adverse audit opinion is issued when an auditor determine that the financial statements <strong>materially depart from</strong> accounting standards and are <strong>not fairly presented</strong>. An adverse opinion makes anaylysis of the financial statements easy: Do not bother analyzing these statements, because the company’s financial statements cannot be relied on.</p>
+<p>否定意见，<strong>错报非常严重</strong>，包括性质严重或者金额非常重大，整个财务报表的反映已经<strong>不再合法和公允</strong>，比如被审计单位存在串通舞弊的行为，存在走私等违反法规的行为等；从金额上看，如果不考虑错报性质，汇总错报已经大大超过财务报表层重要性水平，致使报表使用者无法正确理解和利用财务报表。</p>
+<details><summary><b>表达积累</b></summary>
+    <ol>
+        <li><b>materially</b> adverb /məˈtɪəriəli/ (formal or law法律) in a clear and definite or important way</br>
+        Their comments have not materially affected our plans. 他们的评价并没有对我们的计划产生多么重要的影响。</br>
+        The letter contained materially inaccurate information. 这封信包含严重不正确的信息。
+    </li>
+    </ol>
+</details>
+
+
+</blockquote>
+<p>非常严重的情况。</p>
+<h2 id="04-Disclaimer-of-Opinion-无法表达意见"><a href="#04-Disclaimer-of-Opinion-无法表达意见" class="headerlink" title="04 Disclaimer of Opinion 无法表达意见"></a>04 Disclaimer of Opinion 无法表达意见</h2><blockquote>
+<p><strong>Disclaimer of Opinion</strong></p>
+<p>A disclaimer of opinion occurs when, for some reason, such as scope limitation, the auditors are <strong>unable to issue an opinion</strong>.</p>
+<p>无法表达意见，这是由于审计范围受到委托人、被审计单位或客观环境的严重限制，致使审计师<strong>不能获取必要的审计证据</strong>，以致<strong>无法</strong>对财务报表整体反映发表审计意见时。</p>
+<details><summary><b>表达积累</b></summary>
+    <ol>
+        <li>auditor n. 审计师</li>
+        <li>disclaimer n. 否定声明；放弃；放弃者</br>
+    [pl.] disclaimers</br>
+disclaimer:《免责声明》，即法律明文规定的当事人对其不履行合同不承担违约责任的声明。不可抗力、货物本身的自然性质、货物的合理损耗和债权人的过错是免责的条件。</br>
+    disclaim v. 否认</li>
+    </ol>
+</details>
+
+</blockquote>
+<details><summary><b>reject, deny, decline, refuse辨析</b></summary>
+    <ol>
+        <li>eject多指由于某物某事某行为不能让人满意而被当面直截了当地拒绝。</li>
+        <li>deny指坚决地拒绝接受、给予或承认。</li>
+        <li>decline指婉言谢绝他人的帮助或邀请等。</li>
+        <li>refuse语气较重，指态度坚决，肯定无疑的拒绝。</li>
+    </ol>
+</details>
+
+
+
+<p>这种情况非常严重，也很少出现。</p>
+<h2 id="Differences-among-Audit-opinions"><a href="#Differences-among-Audit-opinions" class="headerlink" title="Differences among Audit opinions"></a>Differences among Audit opinions</h2><blockquote>
+<p><strong>Approved</strong></p>
+<ol>
+<li>unqualified opinion</li>
+<li>qualified opinion</li>
+</ol>
+<p><strong>Disapproved</strong></p>
+<ol>
+<li>adverse opinion</li>
+<li>ddisclaimer of opinion</li>
+</ol>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Financing</category>
+      </categories>
+      <tags>
+        <tag>Financing</tag>
+        <tag>CFA</tag>
+        <tag>FRM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -465,218 +677,6 @@
         <tag>日本語</tag>
         <tag>文法</tag>
         <tag>日语单词</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P1 Audit (1)</title>
-    <url>/posts/829dd40c.html</url>
-    <content><![CDATA[<blockquote>
-<p><strong>Archive</strong>: <a href="https://clairelind1.github.io/posts/5ba1475e.html">CFM+FRM 金融英语笔记合集</a></p>
-<p><strong>Video</strong>: <a href="https://www.bilibili.com/video/BV1i4411J7eb?p=1">P1 CFA+FRM金融英语-财报- Audit(审计意见1)</a></p>
-</blockquote>
-<iframe src="//player.bilibili.com/player.html?aid=52649409&bvid=BV1i4411J7eb&cid=92138799&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<p><strong>Next Course</strong>: <a href="">P2 Audit (2)</a></p>
-<hr>
-<h1 id="Audit-审计"><a href="#Audit-审计" class="headerlink" title="Audit 审计"></a>Audit 审计</h1><blockquote>
-<p>An audit is <strong>an objective examination and evaluation</strong> of the the financial statements of an organization to make sure that the records are a <strong>fair and accurate</strong> representation of the transactions they claim to represent.</p>
-<p>审计是指有资格的会计师对企业账簿和账号所做的<strong>系统性检查</strong>，以此来证明财务报表所反映的资产负债情况<strong>是否属实</strong>。</p>
-<details><summary><b>术语积累</b></summary>
-    <ol>
-        <li>financial statement [C] 财务报表</li>
-    </ol>
-</details>
-
-
-
-</blockquote>
-<h2 id="The-Importance-of-Audit-审计的作用"><a href="#The-Importance-of-Audit-审计的作用" class="headerlink" title="The Importance of Audit 审计的作用"></a>The Importance of Audit 审计的作用</h2><ol>
-<li>制约</li>
-<li>参谋</li>
-<li>防护（保护投资者利益）</li>
-<li>鉴证</li>
-<li>管理控制</li>
-<li>评价</li>
-</ol>
-<h2 id="Differences-between-Internal-Audit-and-External-Audit-内部审计和外部审计的区别"><a href="#Differences-between-Internal-Audit-and-External-Audit-内部审计和外部审计的区别" class="headerlink" title="Differences between Internal Audit and External Audit 内部审计和外部审计的区别"></a>Differences between Internal Audit and External Audit 内部审计和外部审计的区别</h2><div class="table-container">
-<table>
-<thead>
-<tr>
-<th>Comparison 比较</th>
-<th>Internal Audit 内部审计</th>
-<th>External Audit 外部审计</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Meaning 定义</td>
-<td>refers to an ongoing audit function performed within an organization by a separate internal auditing department.</td>
-<td>is an audit function performed by the independent body which is not a part of the organization.</td>
-</tr>
-<tr>
-<td>Objective 目标</td>
-<td>To review the routine activities and provide suggestion for the improvement. 内控</td>
-<td>To analyze and veerify the financial statement of the company.</td>
-</tr>
-<tr>
-<td>Conductors 审计者</td>
-<td>Employees</td>
-<td>Third Party</td>
-</tr>
-<tr>
-<td>Users 使用者</td>
-<td>Management</td>
-<td>Stakeholders</td>
-</tr>
-<tr>
-<td>Opinion 意见</td>
-<td>Opinion is provided on the effectiveness of the operational activities of the organization</td>
-<td>Opinion is provided on the truthfulness and fairness of the financial statement of the company</td>
-</tr>
-<tr>
-<td>Scope 范围</td>
-<td>Decided by the management of the entity.</td>
-<td>Decided by the statute.</td>
-</tr>
-<tr>
-<td>Obligation 义务</td>
-<td>No, it is voluntary</td>
-<td>Yes, according to Indian Companies Act, 1956.</td>
-</tr>
-<tr>
-<td>Period 时段</td>
-<td>Continuous Process</td>
-<td>Once in a year</td>
-</tr>
-<tr>
-<td>Checks 检查</td>
-<td>Operational Efficiency</td>
-<td>Accuracy and Validity of Financial Statement</td>
-</tr>
-</tbody>
-</table>
-</div>
-<details><summary><b>表达积累</b></summary>
-    <ol>
-        <li><b>statute</b> /ˈstætʃuːt/ ① [countable, uncountable] a law that is passed by a parliament, council, etc. and formally written down 成文法；法令；法规</br>
-    <ul>
-        <li><b>in a statute</b> Penalties are laid down in the statute. 法规中有关于惩罚措施的规定。</li>
-        <li><b>by statute</b> Corporal punishment was banned by statute in 1987. 1987 年通过的法令明文禁止体罚。</li>
-        <li><b>under statute</b> These rights existed at common law, rather than under statute. 这些权利存在于普通法中，而不是成文法中。</li></br>
-    </ul>
-        The wording of the statute is ambiguous. 该法规的措词不明确。
-    </ol>
-</details>
-
-
-
-<h1 id="Audit-Opinion-审计意见"><a href="#Audit-Opinion-审计意见" class="headerlink" title="Audit Opinion 审计意见"></a>Audit Opinion 审计意见</h1><h2 id="01-Unqualified-Opinion-无保留意见"><a href="#01-Unqualified-Opinion-无保留意见" class="headerlink" title="01 Unqualified Opinion 无保留意见"></a>01 Unqualified Opinion 无保留意见</h2><blockquote>
-<p><strong>Unqualified Opinion</strong></p>
-<p>An unqualified audit opinion states that the financial statements give a “<strong>true and fair view</strong>” (international) or are “<strong>fairly presented</strong>” (international and US) in accordance with <strong>applicable accounting standards</strong>. This is often referred to as a “clean” opinion and is the one that analysts <strong>would like to see</strong> in a financial report.</p>
-<p>无保留意见审计报告是指审计人员对被审计单位的会计报表，依照独立审计准则的要求进行审查后，确认被审计单位采用的会计处理方法遵循了会计准则及有关规定。会计报表反映的内容符合被审计单位的实际情况：<strong>内容完整，表达清楚，无重要遗漏；报表项目的分类和编制方法符合规定要求</strong>，因而对被审计单位的会计报表无保留地<strong>表示满意</strong>。</p>
-<details><summary><b>表达积累</b></summary>
-    <ol>
-        <li><b>applicable</b> /ˈæplɪkəbl/, /əˈplɪkəbl/ [not usually before noun] that can be said to be true in the case of somebody/something 适用；合适 synonym relevant</li></br>
-        Give details of children where applicable (= if you have any). 如有子女请提供详情。</br>
-        <b>applicable to somebody/something</b> Much of the form was not applicable (= did not apply) to me. 表格中很多部分不适用于我。
-    </ol>
-</details>
-
-
-</blockquote>
-<h2 id="02-Qualified-Opinion-保留意见"><a href="#02-Qualified-Opinion-保留意见" class="headerlink" title="02 Qualified Opinion 保留意见"></a>02 Qualified Opinion 保留意见</h2><blockquote>
-<p><strong>Qualified Opinino</strong></p>
-<p>A qualified audit opinion is one in which there is some <strong>scope limitation or exception</strong> to accounting standards. Exceptions are described in the audit report with <strong>additional explanatory paragraphs</strong> so that the analyst can determine the importance of the exception.</p>
-<p>保留意见审计报告，认为被审计单位会计报表的反映就其整体而言是公允的，只是<strong>个别</strong>重要财务会计事项的处理或个别重要财务报表项目的编制不符合《企业会计准则》及国家其他有关财务会计法规的规定。从性质上看，虽然<strong>严重但不至于影响财务报告整体的公允反映</strong>。</p>
-<details><summary><b>术语积累</b></summary>
-    <ol>
-        <li>qualified opinion 保留意见</li>
-        <li>qualified audit opinion 保留意见审计报告</li>
-    </ol>
-</details>
-
-</blockquote>
-<details><summary><b>表达积累</b></summary>
-    <ol>
-        <li><b>qualified</b> adj. 有资格的，胜任的，适当的，合格的；过检定的，得到许可的；有限制的，有条件的；（俚）十足的，无比的</br>
-    vt. 描述，形容；使合适；授权于；有权，达标</br>
-    vi. 合格，成为合格；取得……的资格</br>
-    qualified for sth. 具备……的学历（或资历</br>
-    qualified to do sth. 具备……的知识（或结果），符合资格</li>
-    </ol>
-</details>
-<details><summary><b>qualify和entitle的区别</b></summary>
-    <ol>
-        <li>qualify用于比较正规、严肃的表述，而entitle用法宽泛，书面、口语均可。</li>
-        <li>核心含义不同。qualify强调“资格、资力、资质”，而entitle则强调应该有某种“权利、权益”。休假用entitle，授予学位用qualify</li>
-    </ol>
-</details>
-
-
-
-<h2 id="03-Adverse-Opinion-否定意见"><a href="#03-Adverse-Opinion-否定意见" class="headerlink" title="03 Adverse Opinion 否定意见"></a>03 Adverse Opinion 否定意见</h2><blockquote>
-<p><strong>Adverse Opinion</strong></p>
-<p>An adverse audit opinion is issued when an auditor determine that the financial statements <strong>materially depart from</strong> accounting standards and are <strong>not fairly presented</strong>. An adverse opinion makes anaylysis of the financial statements easy: Do not bother analyzing these statements, because the company’s financial statements cannot be relied on.</p>
-<p>否定意见，<strong>错报非常严重</strong>，包括性质严重或者金额非常重大，整个财务报表的反映已经<strong>不再合法和公允</strong>，比如被审计单位存在串通舞弊的行为，存在走私等违反法规的行为等；从金额上看，如果不考虑错报性质，汇总错报已经大大超过财务报表层重要性水平，致使报表使用者无法正确理解和利用财务报表。</p>
-<details><summary><b>表达积累</b></summary>
-    <ol>
-        <li><b>materially</b> adverb /məˈtɪəriəli/ (formal or law法律) in a clear and definite or important way</br>
-        Their comments have not materially affected our plans. 他们的评价并没有对我们的计划产生多么重要的影响。</br>
-        The letter contained materially inaccurate information. 这封信包含严重不正确的信息。
-    </li>
-    </ol>
-</details>
-
-
-</blockquote>
-<p>非常严重的情况。</p>
-<h2 id="04-Disclaimer-of-Opinion-无法表达意见"><a href="#04-Disclaimer-of-Opinion-无法表达意见" class="headerlink" title="04 Disclaimer of Opinion 无法表达意见"></a>04 Disclaimer of Opinion 无法表达意见</h2><blockquote>
-<p><strong>Disclaimer of Opinion</strong></p>
-<p>A disclaimer of opinion occurs when, for some reason, such as scope limitation, the auditors are <strong>unable to issue an opinion</strong>.</p>
-<p>无法表达意见，这是由于审计范围受到委托人、被审计单位或客观环境的严重限制，致使审计师<strong>不能获取必要的审计证据</strong>，以致<strong>无法</strong>对财务报表整体反映发表审计意见时。</p>
-<details><summary><b>表达积累</b></summary>
-    <ol>
-        <li>auditor n. 审计师</li>
-        <li>disclaimer n. 否定声明；放弃；放弃者</br>
-    [pl.] disclaimers</br>
-disclaimer:《免责声明》，即法律明文规定的当事人对其不履行合同不承担违约责任的声明。不可抗力、货物本身的自然性质、货物的合理损耗和债权人的过错是免责的条件。</br>
-    disclaim v. 否认</li>
-    </ol>
-</details>
-
-</blockquote>
-<details><summary><b>reject, deny, decline, refuse辨析</b></summary>
-    <ol>
-        <li>eject多指由于某物某事某行为不能让人满意而被当面直截了当地拒绝。</li>
-        <li>deny指坚决地拒绝接受、给予或承认。</li>
-        <li>decline指婉言谢绝他人的帮助或邀请等。</li>
-        <li>refuse语气较重，指态度坚决，肯定无疑的拒绝。</li>
-    </ol>
-</details>
-
-
-
-<p>这种情况非常严重，也很少出现。</p>
-<h2 id="Differences-among-Audit-opinions"><a href="#Differences-among-Audit-opinions" class="headerlink" title="Differences among Audit opinions"></a>Differences among Audit opinions</h2><blockquote>
-<p><strong>Approved</strong></p>
-<ol>
-<li>unqualified opinion</li>
-<li>qualified opinion</li>
-</ol>
-<p><strong>Disapproved</strong></p>
-<ol>
-<li>adverse opinion</li>
-<li>ddisclaimer of opinion</li>
-</ol>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Financing</category>
-      </categories>
-      <tags>
-        <tag>Financing</tag>
-        <tag>CFA</tag>
-        <tag>FRM</tag>
       </tags>
   </entry>
   <entry>
