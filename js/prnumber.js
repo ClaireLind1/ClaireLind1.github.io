@@ -1,0 +1,1 @@
+function postAddToc(){var e=document.querySelector("#post>#article-container.post-content"),t=document.getElementById("card-toc");if(e&&t){var o=t.getElementsByClassName("toc-number"),n=t.getElementsByClassName("toc-link");for(let e=0;e<n.length;e++)document.getElementById(decodeURIComponent(n[e].attributes.href.value).slice(1)).dataset.toc=o[e].innerText}}postAddToc();
